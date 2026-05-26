@@ -29,8 +29,8 @@ npm run dev
 
 ## Live Demo
 
-Add your deployed Vercel link here
-
+[Add your deployed Vercel link here
+](https://bookmanagementsystem-rho.vercel.app/)
 ## GitHub Repository
 
 [Add your GitHub repository link here](https://github.com/MeetKadvane/bookManagement_system)
